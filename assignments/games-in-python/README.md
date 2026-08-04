@@ -1,4 +1,3 @@
-
 # 📘 Atividade: Games in Python
 
 ## 🎯 Objetivo
