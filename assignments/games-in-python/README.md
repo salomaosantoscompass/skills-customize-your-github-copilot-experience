@@ -1,11 +1,11 @@
 
-# 📘 Assignment: Games in Python
+# 📘 Atividade: Games in Python
 
-## 🎯 Objective
+## 🎯 Objetivo
 
-Build a Hangman-style word game in Python using strings, loops, conditionals, and user input.
+Construir um jogo estilo forca em Python utilizando strings, loops, condicionais e entrada de dados do usuário.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Build the Core Game Loop
 
