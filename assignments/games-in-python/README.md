@@ -7,7 +7,7 @@ Construir um jogo estilo forca em Python utilizando strings, loops, condicionais
 
 ## 📝 Tarefas
 
-### 🛠️ Build the Core Game Loop
+### 🛠️ Implementar o Loop Principal do Jogo
 
 #### Descrição
 Implemente a lógica principal do jogo da forca com uma palavra secreta escolhida aleatoriamente e um loop que continua até vitória ou derrota.
@@ -21,7 +21,7 @@ O programa concluído deve:
 - Encerrar o jogo quando todas as letras forem descobertas ou quando as tentativas chegarem a zero.
 
 
-### 🛠️ Add Feedback and Endgame Messages
+### 🛠️ Adicionar Feedback e Mensagens de Fim de Jogo
 
 #### Descrição
 Melhore a experiência do jogador exibindo feedback claro sobre acertos, erros e estado atual do jogo.
